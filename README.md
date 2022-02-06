@@ -1,1 +1,2 @@
-# GWC22-EnvironmentalIssues1
+# Emory GWC Spring 2022
+## Environmental Issues [Group 1]
